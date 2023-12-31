@@ -48,7 +48,7 @@
             <key code="14" output="f"/>
             <key code="46" output="h"/>
             <key code="5" output="g"/>
-            <key code="11" output="z"/>
+            <key code="11" output="b"/>
             <key code="6" output="x"/>
             <key code="7" output="c"/>
             <key code="9" output="v"/>
@@ -157,7 +157,7 @@
             <key code="14" output="F"/>
             <key code="46" output="H"/>
             <key code="5" output="G"/>
-            <key code="11" output="Z"/>
+            <key code="11" output="B"/>
             <key code="6" output="X"/>
             <key code="7" output="C"/>
             <key code="9" output="V"/>
@@ -266,7 +266,7 @@
             <key code="14" output="F"/>
             <key code="46" output="H"/>
             <key code="5" output="G"/>
-            <key code="11" output="Z"/>
+            <key code="11" output="B"/>
             <key code="6" output="X"/>
             <key code="7" output="C"/>
             <key code="9" output="V"/>
@@ -375,7 +375,7 @@
             <key code="14" output="ƒ"/>
             <key code="46" output="˙"/>
             <key code="5" output="©"/>
-            <key code="11" output="Ω"/>
+            <key code="11" output="∫"/>
             <key code="6" output="≈"/>
             <key code="7" output="ç"/>
             <key code="9" output="√"/>
@@ -484,7 +484,7 @@
             <key code="14" output="Ï"/>
             <key code="46" output="Ó"/>
             <key code="5" output="˝"/>
-            <key code="11" output="¸"/>
+            <key code="11" output="ı"/>
             <key code="6" output="˛"/>
             <key code="7" output="Ç"/>
             <key code="9" output="◊"/>
@@ -593,7 +593,7 @@
             <key code="14" output="Ï"/>
             <key code="46" output="Ó"/>
             <key code="5" output="©"/>
-            <key code="11" output="Ω"/>
+            <key code="11" output="ı"/>
             <key code="6" output="≈"/>
             <key code="7" output="Ç"/>
             <key code="9" output="√"/>
@@ -702,7 +702,7 @@
             <key code="14" output="ƒ"/>
             <key code="46" output="˙"/>
             <key code="5" output="©"/>
-            <key code="11" output="Ω"/>
+            <key code="11" output="∫"/>
             <key code="6" output="≈"/>
             <key code="7" output="ç"/>
             <key code="9" output="√"/>
@@ -811,7 +811,7 @@
             <key code="14" output="&#x0006;"/>
             <key code="46" output="&#x0008;"/>
             <key code="5" output="&#x0007;"/>
-            <key code="11" output="&#x001A;"/>
+            <key code="11" output="&#x0002;"/>
             <key code="6" output="&#x0018;"/>
             <key code="7" output="&#x0003;"/>
             <key code="9" output="&#x0016;"/>
