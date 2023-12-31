@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>github.vancewill.keyboardlayout.äßc</string>
+	<key>CFBundleName</key>
+	<string>ÄẞC</string>
+	<key>CFBundleVersion</key>
+	<string>2.0.0</string>
+	<key>KLInfo_ÄẞC ANSI</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>github.vancewill.keyboardlayout.äßc.äßcansi</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_ÄẞC ANSI - Extended</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>github.vancewill.keyboardlayout.äßc.äßcansi-extended</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_ÄẞC ISO</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>github.vancewill.keyboardlayout.äßc.äßciso</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_ÄẞC ISO - Extended</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>github.vancewill.keyboardlayout.äßc.äßciso-extended</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_ÄẞC Matrix</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>github.vancewill.keyboardlayout.äßc.äßcmatrix</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+	<key>KLInfo_ÄẞC Matrix - Extended</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>github.vancewill.keyboardlayout.äßc.äßcmatrix-extended</string>
+		<key>TISIntendedLanguage</key>
+		<string>en</string>
+	</dict>
+</dict>
+</plist>
