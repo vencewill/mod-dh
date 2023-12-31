@@ -58,7 +58,7 @@
             <key code="13" output="w"/>
             <key code="40" action="15"/>
             <key code="1" output="s"/>
-            <key code="31" action="20"/>
+            <key code="31" action="18"/>
             <key code="3" output="f"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
@@ -167,7 +167,7 @@
             <key code="13" output="W"/>
             <key code="40" action="7"/>
             <key code="1" output="S"/>
-            <key code="31" action="12"/>
+            <key code="31" action="10"/>
             <key code="3" output="F"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
@@ -276,7 +276,7 @@
             <key code="13" output="W"/>
             <key code="40" action="7"/>
             <key code="1" output="S"/>
-            <key code="31" action="12"/>
+            <key code="31" action="10"/>
             <key code="3" output="F"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
@@ -385,7 +385,7 @@
             <key code="13" output="∑"/>
             <key code="40" action="0"/>
             <key code="1" output="ß"/>
-            <key code="31" output="¥"/>
+            <key code="31" output="ø"/>
             <key code="3" output="F"/>
             <key code="18" output="¡"/>
             <key code="19" output="™"/>
@@ -494,7 +494,7 @@
             <key code="13" output="„"/>
             <key code="40" output="´"/>
             <key code="1" output="Í"/>
-            <key code="31" output="Á"/>
+            <key code="31" output="Ø"/>
             <key code="3" output="F"/>
             <key code="18" output="⁄"/>
             <key code="19" output="€"/>
@@ -603,7 +603,7 @@
             <key code="13" output="∑"/>
             <key code="40" output="´"/>
             <key code="1" output="Í"/>
-            <key code="31" output="Á"/>
+            <key code="31" output="Ø"/>
             <key code="3" output="F"/>
             <key code="18" output="¡"/>
             <key code="19" output="™"/>
@@ -712,7 +712,7 @@
             <key code="13" output="∑"/>
             <key code="40" output="´"/>
             <key code="1" output="ß"/>
-            <key code="31" output="¥"/>
+            <key code="31" output="ø"/>
             <key code="3" output="F"/>
             <key code="18" output="¡"/>
             <key code="19" output="™"/>
@@ -821,7 +821,7 @@
             <key code="13" output="&#x0017;"/>
             <key code="40" output="&#x0005;"/>
             <key code="1" output="&#x0013;"/>
-            <key code="31" output="&#x0019;"/>
+            <key code="31" output="&#x000F;"/>
             <key code="3" output="F"/>
             <key code="18" output="1"/>
             <key code="19" output="2"/>
